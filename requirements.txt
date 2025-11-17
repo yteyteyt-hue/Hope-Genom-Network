@@ -1,0 +1,16 @@
+# Hope Genome - Core Dependencies
+# Python 3.10+
+
+# Core
+python-dateutil>=2.8.2
+typing-extensions>=4.7.0
+
+# Async
+asyncio>=3.4.3
+
+# No external dependencies for core!
+# Hope Genome is designed to be lightweight and dependency-free
+# for maximum portability and security.
+
+# Optional: For benchmarking (see requirements-benchmark.txt)
+# Optional: For development (see requirements-dev.txt)
